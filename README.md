@@ -53,7 +53,7 @@ Modify the transition and transform properties in style.css to change the animat
 
 ---
 
-🧩 How It Works
+## 🧩 How It Works
 
 - **Expandable Menu:**
 
